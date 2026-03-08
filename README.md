@@ -6,7 +6,7 @@
 
 > 涵盖 8 大领域、65 项 PM 核心技能和 36 个深度工作流。支持 Cursor、Gemini、Claude Code、Trae 等任何 AI 助手。从产品发现、战略制定、执行管理到市场增长，全方位覆盖。
 
-![插件概览](.docs/images/plugins-overview.webp)
+![插件概览](.docs/images/index-screenshot.png)
 
 本仓库提供了一套标准化的 PM 技能定义和工作流。无论你使用哪种 AI 工具，都可以通过引用这些本地文件，让 AI 具备顶级产品经理的专业思维。
 
