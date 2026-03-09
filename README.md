@@ -145,5 +145,3 @@
 - Marty Cagan — *INSPIRED* & *TRANSFORMED*
 - Alberto Savoia — *The Right It*
 - ...及更多顶级产品专家。
-
-由来自 [The Product Compass Newsletter](https://www.productcompass.pm) 的 Paweł Huryn 策划，并由中文社区持续维护。
